@@ -1,4 +1,4 @@
-\# 🇳🇬 Nigerian Language Identifier
+\# 🇳🇬 Nigerian Language Classifier
 
 A machine learning application that identifies whether a short text is written in English, Hausa, Igbo, or Yoruba. Built as a capstone project for the \*\*3MTT / NextGen AI \& Machine Learning\*\* program.
 
